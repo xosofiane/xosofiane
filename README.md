@@ -4,9 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xosofiane&label=Profile%20views&color=0e75b6&style=flat" alt="xosofiane" /> </p>
 
 - 🌱 I’m currently learning **React js**
-
-- 💬 Ask me about **Html, Css, Javascript, Python and Figma**
-
 - 📫 How to reach me **sofianeworkmessai@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
